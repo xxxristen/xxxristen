@@ -1,6 +1,6 @@
 👋 Hi, I’m @xxxristen.
 
-I am in the final leg of my full stack developer bootcamp, and will be looking out for opportunities to apply the knowledge I've gained.
+I have just completed the Generation SG's full stack developer bootcamp, and is looking out for opportunities to apply the knowledge I've gained.
 
 My DP may suggest hostility but I'm actually very friendly. 😄
 
