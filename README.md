@@ -2,7 +2,7 @@
 
 I have just completed the Generation SG's full stack developer boot camp, and is looking out for opportunities to apply the knowledge I've gained.
 
-Here's the link to my portfolio, consisting of the projects I've done during the boot camp.
+Here's the link to [my portfolio](http://xxxristen-portfolio.vercel.app), consisting of the projects I've done during the boot camp.
 
 My DP may suggest hostility but I'm actually very friendly. 😄
 
